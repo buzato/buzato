@@ -27,14 +27,10 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## ⚡ Stats
+## ⚡ My GitHub Stats
 
 ![Buzato's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=radical)
 ![Buzato's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=8&layout=compact&theme=radical)
-![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
+##  📊 This Week I Spent My Time On:
+![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical)
