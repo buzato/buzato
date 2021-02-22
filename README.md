@@ -34,4 +34,7 @@ These are some of the technologies and tools that I work with:
 ![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical)
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
