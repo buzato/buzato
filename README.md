@@ -30,5 +30,5 @@ These are some of the technologies and tools that I work with:
 ## ⚡ Stats
 
 ![Buzato's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=radical)
-![Buzato's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buzato&langs_count=8&layout=compact&theme=radical)
+![Buzato's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=8&layout=compact&theme=radical)
 ![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical)
