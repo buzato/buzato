@@ -25,6 +25,6 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ Stats
 
-![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzato&count_private=true&theme=tokyonight)
-![Oliveiraswell's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buzato&langs_count=8&layout=compact&count_private=true&theme=tokyonight)
-![Oliveiraswell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=tokyonight)
+![Buzato's GitHub stats](https://github-readme-stats.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=tokyonight)
+![Buzato's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=buzato&langs_count=8&layout=compact&count_private=true&theme=tokyonight)
+![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=tokyonight)
