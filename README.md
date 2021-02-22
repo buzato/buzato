@@ -11,6 +11,7 @@ These are some of the technologies and tools that I work with:
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-2496ED?style=flat-square&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-4479A1?style=flat-square&logo=redux)
+![Electron](https://img.shields.io/badge/-Electron-2f3241?style=flat-square&logo=electron&logoColor=74b1be)
 ![Svelte](https://img.shields.io/badge/-Svelte-4A4A55?style=flat-square&logo=svelte&logoColor=FF3E00)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
