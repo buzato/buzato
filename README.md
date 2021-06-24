@@ -28,6 +28,8 @@ These are some of the technologies and tools that I work with:
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Lua](https://img.shields.io/badge/-Lua-000080?style=flat-square&logo=Lua)
+![FiveM](https://img.shields.io/badge/-FiveM-ff6f00?style=flat-square)
 
 ## ⚡ My GitHub Stats
 
