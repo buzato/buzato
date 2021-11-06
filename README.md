@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Igor Buzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- I’m currently working on @dextra / @ciandt with TypeScript, Node, React Native and the React universe.
+- I’m currently working on [@dextra](https://www.dextra.com.br) / [@ciandt](https://ciandt.com) with TypeScript, Node, React Native and the React universe.
 
 ## ⚡ Technologies
 
