@@ -37,7 +37,9 @@ These are some of the technologies and tools that I work with:
 <div align="center">
   <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars"/>
   <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=6&layout=compact&theme=radical"/>
-  <img height="750em" src="https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical"/>
+</div>
+<div align="center">
+ <img height="750em" src="https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical"/>  
 </div>
 
 ![Snake](https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg)
