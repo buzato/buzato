@@ -35,14 +35,12 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ My GitHub Stats
 <div align="center">
-  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=react&hide_border=true"/>
-  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&hide_border=true"/>
-  
-</div>
-<div align="center">
+  <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&hide_border=true"/>
+  <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=react&hide_border=true"/>
  <img height="750em" src="https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=react&hide_border=true"/>  
 </div>
-
-![Snake](https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg)
+<div align="center">
+ <img src="https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg"/>  
+</div>
 
 
