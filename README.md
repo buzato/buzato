@@ -35,8 +35,8 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ My GitHub Stats
 <div align="center">
-  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=6&layout=compact&theme=radical"/>
-  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars"/>
+  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars&hide_border=true"/>
   
 </div>
 <div align="center">
