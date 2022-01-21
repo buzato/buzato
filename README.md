@@ -4,6 +4,8 @@
 
 - I’m currently working on [@ciandt](https://ciandt.com) with TypeScript, Node, React Native and the React universe.
 
+<img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" />
+
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
@@ -37,3 +39,7 @@ These are some of the technologies and tools that I work with:
 ![Buzato's GitHub stats](https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=6&layout=compact&theme=radical)
 
 ![Buzato's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=radical)
+
+<img src="https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg" />
+
+
