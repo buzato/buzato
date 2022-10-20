@@ -27,6 +27,7 @@ These are some of the technologies and tools that I work with:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![K8S](https://img.shields.io/badge/-Kubernetes-blue)
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
