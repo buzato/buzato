@@ -4,6 +4,10 @@
 
 - I’m currently working on [@ciandt](https://ciandt.com) with TypeScript, Node, React Native and the React universe.
 
+### RealTime Status
+[![Status for @buzato](https://badge.stateful.com/buzato/status.svg)](https://app.stateful.com/@buzato)
+[![Status for @buzato](https://badge.stateful.com/buzato/dnd.svg)](https://app.stateful.com/@buzato)
+
 <img src="https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966" />
 
 ## ⚡ Technologies
@@ -38,7 +42,6 @@ These are some of the technologies and tools that I work with:
 <div align="center">
   <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&hide_border=true"/>
   <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=react&hide_border=true"/>
- <img height="750em" src="https://github-readme-stats.vercel.app/api/wakatime?username=buzato&theme=react&hide_border=true"/>  
 </div>
 <div align="center">
  <img src="https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg"/>  
