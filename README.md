@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Igor Buzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- I’m currently working on [@ciandt](https://ciandt.com) with TypeScript, Node, React Native and the React universe.
+- I’m currently working on [@ciandt](https://ciandt.com) / [NAV @Dasa](https://nav.dasa.com.br) with TypeScript, Node, React Native and the React universe.
 
 ### RealTime Status
 [![Status for @buzato](https://badge.stateful.com/buzato/status.svg)](https://app.stateful.com/@buzato)
