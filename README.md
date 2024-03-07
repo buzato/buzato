@@ -36,12 +36,9 @@ These are some of the technologies and tools that I work with:
 
 ## ⚡ My GitHub Stats
 <div align="center">
-  <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&hide_border=true"/>
-  <img height="180em" width="100%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=react&hide_border=true"/>
-  <img height="300em" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Buzato&api_domain=wakapi.dev&theme=react&hide_border=true"/>
-</div>
-<div align="center">
- <img src="https://raw.githubusercontent.com/buzato/buzato/c0cca1ff0ac554973fccb1689c1519305e227fc7/profile-3d-contrib/profile-night-rainbow.svg"/>  
+  <img height="180em" width="50%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api?username=buzato&count_private=true&show_icons=true&theme=react&include_all_commits=true&hide=stars&hide_border=true"/>
+  <img height="180em" width="50%" src="https://personal-github-stats-8tkmrsfp9-buzato.vercel.app/api/top-langs/?username=buzato&langs_count=7&layout=compact&theme=react&hide_border=true"/>
+  <img height="300em" width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Buzato&api_domain=wakapi.dev&theme=react&hide_border=true"/>
 </div>
 
 
