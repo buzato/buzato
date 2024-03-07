@@ -41,7 +41,7 @@ These are some of the technologies and tools that I work with:
   <img height="300em" width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Buzato&api_domain=wakapi.dev&theme=react&hide_border=true"/>
 </div>
 <div align="center">
- <img src="https://raw.githubusercontent.com/buzato/buzato/output/github-contribution-grid-snake.svg"/>  
+ <img src="https://raw.githubusercontent.com/buzato/buzato/c0cca1ff0ac554973fccb1689c1519305e227fc7/profile-3d-contrib/profile-night-rainbow.svg"/>  
 </div>
 
 
