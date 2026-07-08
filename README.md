@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Igor Buzato <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-- I’m currently working on [NAV @Dasa](https://nav.dasa.com.br) with TypeScript, Node, React Native and the React universe.
+- I’m currently working on [SuperFrete](https://superfrete.com/) with TypeScript, Node, React Native and the React universe.
 
 <img src="https://raw.githubusercontent.com/buzato/buzato/main/7c31678a-f970-4a98-8cbf-85cf053d69e1.gif" />
 
